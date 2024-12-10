@@ -1,0 +1,16 @@
+# Debug symbols
+*.dSYM/
+
+# Compiled output
+*.o
+*.exe
+substitution
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# CS50 specific
+*.zip
